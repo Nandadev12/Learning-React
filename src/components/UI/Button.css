@@ -1,0 +1,23 @@
+.Button button{
+        font: inherit;
+        cursor: pointer;
+        padding: 1rem 2rem;
+        border: 1px solid #ffffff;
+        background-color: #a52fdb;
+        color: white;
+        border-radius: 12px;
+        margin-right: 1rem;
+        text-align: center;
+        align-self: center;
+}
+.Button {
+  align-self: center;
+}
+
+.Button button:hover,
+.Button button:active {
+  background-color: #a52fdbd0;
+  border-color: #510674;
+}
+
+
